@@ -9,3 +9,7 @@
 ![Followers](https://img.shields.io/github/followers/Sana-17-Cipher?label=WEB%20FOLLOWERS&style=for-the-badge)
 
 ![Stars](https://img.shields.io/github/stars/Sana-17-Cipher?label=STARS%20COLLECTED&style=for-the-badge)
+
+## Sana-17-Cipher SPIDER-SENSE READINGS
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sana-17-Cipher&show_icons=true&theme=radical&hide_border=true" />
