@@ -3,7 +3,8 @@
 </p>
 
 <img align="right" src="./assets/spidey.png" width="350">
-
+<br>
+<br>
 <p>
   Swinging between projects, ideas, and questionable debugging decisions.
   <br>
@@ -98,7 +99,7 @@ Currently upgrading my skill tree:
 
 ---
 
-## 📡 SPIDER-SIGNAL
+## SPIDER-SIGNAL
 
 <p align="center">
 
@@ -130,6 +131,6 @@ Currently upgrading my skill tree:
   🕸️ ─────────────── 🕷️ ─────────────── 🕸️
 </p>
 
-<p align="center">
+<p>
   <sub>Friendly neighborhood repository · Built with curiosity · Currently on patrol</sub>
 </p>
