@@ -4,13 +4,12 @@
 
 <img align="right" src="./assets/spidey.png" width="350">
 
-### 🕷️ Your friendly neighborhood developer.
 
-Swinging between projects, ideas, and questionable debugging decisions.
+##Swinging between projects, ideas, and questionable debugging decisions.
 
-I don't have Spider-Sense.
+##I don't have Spider-Sense.
 
-I have **"something is definitely broken" sense.**
+##I have **"something is definitely broken" sense.**
 
 <br clear="right"/>
 
@@ -30,7 +29,7 @@ I have **"something is definitely broken" sense.**
 
 ---
 
-## 🧬 SPIDER-SENSE READINGS
+## SPIDER-SENSE READINGS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sana-17-Cipher&show_icons=true&theme=radical&hide_border=true" height="180" />
@@ -54,17 +53,6 @@ I have **"something is definitely broken" sense.**
 
 ---
 
-## 🏙️ NEIGHBORHOOD PATROL LOG
-
-### 🧹 CLEANYTICS
-
-> An automated Data Analytics & Business Intelligence platform.
-
-### 🕷️ More projects swinging in...
-
-> The neighborhood is still under construction.
-
----
 
 ## 🦹 VILLAINS DEFEATED
 
@@ -95,7 +83,7 @@ I have **"something is definitely broken" sense.**
 
 ---
 
-## 🧬 SUIT UPGRADES
+## SUIT UPGRADES
 
 Currently upgrading my skill tree:
 
@@ -109,7 +97,7 @@ Currently upgrading my skill tree:
 
 ---
 
-## 📡 SPIDER-SIGNAL
+## SPIDER-SIGNAL
 
 <p align="center">
 
@@ -131,13 +119,13 @@ Currently upgrading my skill tree:
 
 <p align="center">
 
-🕸️ ─────────────── 🕷️ ─────────────── 🕸️
+
 
 ### With great power comes great responsibility.
 
 **I'm still working on the responsibility part.**
 
-🕸️ ─────────────── 🕷️ ─────────────── 🕸️
+<p align="center"🕸️ ─────────────── 🕷️ ─────────────── 🕸️>
 
 <sub>Friendly neighborhood repository · Built with curiosity · Currently on patrol</sub>
 
