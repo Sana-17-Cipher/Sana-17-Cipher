@@ -6,11 +6,13 @@
 <br>
 <br>
 <p>
-  Swinging between projects, ideas, and questionable debugging decisions.
+  <b>Swinging between projects, ideas, and questionable debugging decisions.</b>
   <br>
-  I don't have Spider-Sense.
   <br>
-  I have <b>"something is definitely broken" sense.</b>
+  <b>I don't have Spider-Sense.</b>
+  <br>
+    <br>
+  <b>I have <b>"something is definitely broken" sense.</b></b>
 </p>
 
 <br clear="right"/>
@@ -78,7 +80,7 @@
 ## 🕷️ PATROL ACTIVITY
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sana-17-Cipher&theme=radical&hide_border=true" />
+  <img src=https://streak-stats.demolab.com/?Sana-17-Cipher=DenverCoder1)](https://git.io/streak-stats)/>
 </p>
 
 > Apparently, maintaining a GitHub streak counts as neighborhood patrol.
