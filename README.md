@@ -4,12 +4,13 @@
 
 <img align="right" src="./assets/spidey.png" width="350">
 
-
-##Swinging between projects, ideas, and questionable debugging decisions.
-
-##I don't have Spider-Sense.
-
-##I have **"something is definitely broken" sense.**
+<p>
+  Swinging between projects, ideas, and questionable debugging decisions.
+  <br>
+  I don't have Spider-Sense.
+  <br>
+  I have <b>"something is definitely broken" sense.</b>
+</p>
 
 <br clear="right"/>
 
@@ -97,7 +98,7 @@ Currently upgrading my skill tree:
 
 ---
 
-## SPIDER-SIGNAL
+## 📡 SPIDER-SIGNAL
 
 <p align="center">
 
@@ -119,14 +120,16 @@ Currently upgrading my skill tree:
 
 <p align="center">
 
-
-
 ### With great power comes great responsibility.
 
 **I'm still working on the responsibility part.**
 
-<p align="center"🕸️ ─────────────── 🕷️ ─────────────── 🕸️>
+</p>
 
-<sub>Friendly neighborhood repository · Built with curiosity · Currently on patrol</sub>
+<p align="center">
+  🕸️ ─────────────── 🕷️ ─────────────── 🕸️
+</p>
 
+<p align="center">
+  <sub>Friendly neighborhood repository · Built with curiosity · Currently on patrol</sub>
 </p>
