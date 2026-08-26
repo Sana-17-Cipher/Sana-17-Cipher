@@ -33,15 +33,25 @@
 
 ---
 
-## SPIDER-SENSE READINGS
+## 🕷️ SPIDER-SENSE READINGS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sana-17-Cipher&show_icons=true&theme=radical&hide_border=true" height="180" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-17-Cipher&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=Sana-17-Cipher&hide_border=true&background=1B1B1F&ring=F97316&fire=F97316&currStreakLabel=F97316&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Sana-17-Cipher&show_icons=true&hide_border=true&bg_color=1B1B1F&title_color=F97316&icon_color=F97316&text_color=FFFFFF" height="165"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-17-Cipher&layout=compact&hide_border=true&bg_color=1B1B1F&title_color=F97316&text_color=FFFFFF" height="165"/>
+
+</div>
+
+<br/>
 
 > 🕷️ **Spider-Sense report:**
 > Code detected. Sleep levels questionable.
