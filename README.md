@@ -10,6 +10,31 @@
 
 ![Stars](https://img.shields.io/github/stars/Sana-17-Cipher?label=STARS%20COLLECTED&style=for-the-badge)
 
-## Sana-17-Cipher SPIDER-SENSE READINGS
+## 🧬 SPIDER-SENSE READINGS
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sana-17-Cipher&show_icons=true&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-17-Cipher&layout=compact&theme=radical&hide_border=true" />
+
+## 🕸️ WEB-SLINGING ARSENAL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,html,css,tailwind,mongodb,git,github,vscode&perline=6" />
+</p>
+
+## 🕷️ PATROL ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sana-17-Cipher&theme=radical&hide_border=true" />
+</p>
+
+## 🦹 VILLAINS DEFEATED
+
+```text
+🦹 "It works on my machine"
+🦹 CSS
+🦹 Dependency conflicts
+🦹 Random runtime errors
+🦹 Missing semicolons
+🦹 Git
+
