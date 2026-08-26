@@ -5,3 +5,7 @@
 ## 🕸️ SPIDER-SENSE
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sana-17-Cipher&label=PEOPLE%20SPOTTED&color=red&style=for-the-badge)
+
+![Followers](https://img.shields.io/github/followers/Sana-17-Cipher?label=WEB%20FOLLOWERS&style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/Sana-17-Cipher?label=STARS%20COLLECTED&style=for-the-badge)
