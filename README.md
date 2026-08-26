@@ -23,7 +23,7 @@
 
 <p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=Sana-17-Cipher&label=VISITS20%DETECTED&color=red&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Sana-17-Cipher&label=VISITS%20DETECTED&color=red&style=for-the-badge" />
 
 <img src="https://img.shields.io/github/followers/Sana-17-Cipher?label=WEB%20FOLLOWERS&style=for-the-badge" />
 
