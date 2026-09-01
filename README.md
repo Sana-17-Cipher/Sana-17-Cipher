@@ -37,9 +37,8 @@
 
 <div align="center">
 
- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sana-17-Cipher&theme=dark&hide_border=true&background=1B1B1F&ring=F97316&fire=F97316&currStreakLabel=F97316&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="Streak Stats" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=Sana-17-Cipher&hide_border=true&background=1B1B1F&ring=F97316&fire=F97316&currStreakLabel=F97316&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" />
+
 </div>
 
 <br/>
