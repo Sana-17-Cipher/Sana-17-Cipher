@@ -3,16 +3,18 @@
 </p>
 
 <img align="right" src="./assets/spidey.png" width="350">
+
 <br>
 <br>
+
 <p>
   <b>Swinging between projects, ideas, and questionable debugging decisions.</b>
   <br>
   <br>
   <b>I don't have Spider-Sense.</b>
   <br>
-    <br>
-  <b>I have <b>"something is definitely broken" sense.</b></b>
+  <br>
+  <b>I have "something is definitely broken" sense.</b>
 </p>
 
 <br clear="right"/>
@@ -37,7 +39,7 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=Sana-17-Cipher&hide_border=true&background=1B1B1F&ring=F97316&fire=F97316&currStreakLabel=F97316&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" />
+<img src="https://streak-stats.demolab.com/?user=Sana-17-Cipher&hide_border=true&background=1B1B1F&ring=F97316&fire=F97316&currStreakLabel=F97316&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" />
 
 </div>
 
@@ -45,16 +47,26 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Sana-17-Cipher&show_icons=true&hide_border=true&bg_color=1B1B1F&title_color=F97316&icon_color=F97316&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sana-17-Cipher&show_icons=true&hide_border=true&bg_color=1B1B1F&title_color=F97316&icon_color=F97316&text_color=FFFFFF" height="165"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-17-Cipher&layout=compact&hide_border=true&bg_color=1B1B1F&title_color=F97316&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-17-Cipher&layout=compact&hide_border=true&bg_color=1B1B1F&title_color=F97316&text_color=FFFFFF" height="165"/>
 
 </div>
 
 <br/>
 
-> 🕷️ **Spider-Sense report:**
-> Code detected. Sleep levels questionable.
+<div align="center">
+
+<a href="https://github.com/Sana-17-Cipher?tab=overview">
+  🕷️ <b>VIEW MORE SPIDER-SENSE DATA →</b>
+</a>
+
+</div>
+
+<br/>
+
+> 🕷️ **Spider-Sense report:**  
+> Code detected. Sleep levels questionable.  
 > Debugging activity unusually high.
 
 ---
@@ -67,7 +79,6 @@
 
 ---
 
-
 ## 🦹 VILLAINS DEFEATED
 
 ```text
@@ -77,7 +88,7 @@
 🦹 Random runtime errors
 🦹 Missing semicolons
 🦹 Git
-```
+````
 
 ### Final Boss
 
@@ -90,14 +101,16 @@
 ## 🕷️ PATROL ACTIVITY
 
 <p align="center">
-  <img src=https://streak-stats.demolab.com/?Sana-17-Cipher=DenverCoder1)](https://git.io/streak-stats)/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sana-17-Cipher&bg_color=1B1B1F&color=FFFFFF&line=F97316&point=FFFFFF&area=true&hide_border=true" />
+
 </p>
 
 > Apparently, maintaining a GitHub streak counts as neighborhood patrol.
 
 ---
 
-## SUIT UPGRADES
+## 🕸️ SUIT UPGRADES
 
 Currently upgrading my skill tree:
 
@@ -111,7 +124,7 @@ Currently upgrading my skill tree:
 
 ---
 
-## SPIDER-SIGNAL
+## 🕷️ SPIDER-SIGNAL
 
 <p align="center">
 
@@ -146,3 +159,4 @@ Currently upgrading my skill tree:
 <p>
   <sub>Friendly neighborhood repository · Built with curiosity · Currently on patrol</sub>
 </p>
+```
