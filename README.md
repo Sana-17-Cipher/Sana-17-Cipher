@@ -51,15 +51,25 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-17-Cipher&layout=compact&hide_border=true&bg_color=1B1B1F&title_color=F97316&text_color=FFFFFF" height="165"/>
 
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sana-17-Cipher&show_icons=true&hide_border=true&bg_color=1B1B1F&title_color=F97316&icon_color=F97316&text_color=FFFFFF"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-17-Cipher&layout=compact&hide_border=true&bg_color=1B1B1F&title_color=F97316&text_color=FFFFFF"
+    height="165"
+  />
+
+</div>
+
 </div>
 
 <br/>
 
 <div align="center">
-
-<a href="https://github.com/Sana-17-Cipher?tab=overview">
-  🕷️ <b>VIEW MORE SPIDER-SENSE DATA →</b>
-</a>
 
 </div>
 
